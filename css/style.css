@@ -13,12 +13,11 @@ body {
 }
 
 p {
-	font-size: .95em;
+	font-size: .85em;
 	margin-bottom: 1.8em;
 }
 
-h2,
-h3,
+
 a {
 	color: #093a58;
 }
@@ -27,10 +26,11 @@ h2,
 h3,
 h4 {
 	margin-top: 0;
+	color: #333;
 }
 
 h2{
-	font-size: x-large;
+	font-size: 23px;
 }
 
 h4 {
@@ -75,6 +75,10 @@ figure {
 
 .main-nav {
 	margin-top: 5px;
+}
+
+header{
+	margin-bottom: 50px;
 }
 
 	.name a,
